@@ -1,0 +1,7 @@
+test/
+__test__/
+app/
+dist/
+webpack.config.js
+pipe-plugin.js
+notes.md
