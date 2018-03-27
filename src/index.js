@@ -12,7 +12,7 @@ module.exports = () => {
         path.replaceWith(
           t.callExpression(path.node.right, [ path.node.left ])
         );
-      }
+      },
     },
-  }
+  };
 };

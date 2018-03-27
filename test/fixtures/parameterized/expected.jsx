@@ -1,5 +1,3 @@
 const Cell = ({ value }) => {
-  return (
-    <td>{ toFixed(value, 2) }</td>
-  )
+  return <td>{toFixed(2)(value)}</td>;
 };

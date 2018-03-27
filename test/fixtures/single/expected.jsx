@@ -1,5 +1,3 @@
 const Shout = ({ name }) => {
-  return (
-    <div>YO, { toUpperCase(name) }!</div>
-  )
+  return <div>YO, {toUpperCase(name)}!</div>;
 };
