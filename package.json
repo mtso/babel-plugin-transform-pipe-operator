@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-pipe-operator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "mtso <~@mtso.io>",
   "main": "src/index.js",
   "license": "MIT",

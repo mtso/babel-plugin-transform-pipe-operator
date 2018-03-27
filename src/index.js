@@ -1,4 +1,4 @@
-const t = require('@babel/core').types;
+import { types as t } from '@babel/core';
 
 const isInContainer = ({ node }) => t.isJSXExpressionContainer(node);
 
